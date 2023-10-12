@@ -58,10 +58,10 @@ The application should now be running locally at http://localhost:3000.
 ## Additional information.
 This project was created using the following technologies and libraries:
 
-React
-React Bootstrap
-Redux Toolkit
-Uuid
+- React
+- React Bootstrap
+- Redux Toolkit
+- Uuid
 
 ## Author
 The author of this project is:  **Vasyl Pavlenko**
